@@ -1,0 +1,19 @@
+{
+  "name": "nestjs-bootstrap",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "nestjs-bootstrap": "./src/index.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquirer": "^12.3.2",
+    "shelljs": "^0.8.5"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
