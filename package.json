@@ -15,5 +15,17 @@
   },
   "devDependencies": {
     "jest": "^29.0.0"
+  },
+  "keywords": [
+    "nestjs",
+    "bootstrap",
+    "database",
+    "orm"
+  ],
+  "author": "Rexford Kofi  Koomson",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/nestjs-bootstrap.git"
   }
 }
